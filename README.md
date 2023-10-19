@@ -18,7 +18,7 @@ Unreal Engine Plugin for Synthetic Data Generation
 5.  Plugin should be now ready to use.
 
 ## DEMO
-<a href="https://youtu.be/8lbVPYY_92s"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+<a href="https://youtu.be/8lbVPYY_92s"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=flat&logo=YouTube&logoColor=white"/></a>
 
 ## Overview
 <div>
